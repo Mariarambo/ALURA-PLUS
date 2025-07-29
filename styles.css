@@ -235,3 +235,11 @@ body {
     list-style: none;
     padding-left: 0;
 }
+
+@media (max-width: 768px) {
+  .principal {
+    background-image: none;
+    background-color: #00030C; /* cor de fundo alternativa */
+  }
+}
+
